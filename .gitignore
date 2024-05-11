@@ -160,3 +160,7 @@ cython_debug/
 #.idea/
 data/.~lock.base_multimorb_fase1_fase_2_clinicas_originales.xlsx#
 data/.~lock.variables_base_general_multimorb.xlsx#
+final.csv
+primera_Salida.csv
+salida.csv
+dfV1.csv
